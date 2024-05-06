@@ -3,10 +3,10 @@
 
 Library Management System
 
-Platform used : Window 7 ultimate x64
+Platform used : Window 11 ultimate x64
 
-IDE/Software used : Visual Studio 6 (visual basic 6.0)
+IDE/Software used : Visual Studio
 
 Programming : visual basic
 
-Backend/Database : MS Access
+Backend/Database : SQL

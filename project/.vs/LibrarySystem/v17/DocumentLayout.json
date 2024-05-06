@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{963AC289-A637-493F-96D0-48B30DD11B6E}|LibrarySystem\\LibrarySystem.vbproj|c:\\users\\7290\\desktop\\fpython\\library (3)\\library\\librarymanagementsystem\\librarysystem\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{963AC289-A637-493F-96D0-48B30DD11B6E}|LibrarySystem\\LibrarySystem.vbproj|solutionrelative:librarysystem\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963AC289-A637-493F-96D0-48B30DD11B6E}|LibrarySystem\\LibrarySystem.vbproj|C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\librarysystem\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{963AC289-A637-493F-96D0-48B30DD11B6E}|LibrarySystem\\LibrarySystem.vbproj|solutionrelative:librarysystem\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963AC289-A637-493F-96D0-48B30DD11B6E}|LibrarySystem\\LibrarySystem.vbproj|C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\librarysystem\\loginform1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{963AC289-A637-493F-96D0-48B30DD11B6E}|LibrarySystem\\LibrarySystem.vbproj|solutionrelative:librarysystem\\loginform1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963AC289-A637-493F-96D0-48B30DD11B6E}|LibrarySystem\\LibrarySystem.vbproj|C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\librarysystem\\includes\\user.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{963AC289-A637-493F-96D0-48B30DD11B6E}|LibrarySystem\\LibrarySystem.vbproj|solutionrelative:librarysystem\\includes\\user.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963AC289-A637-493F-96D0-48B30DD11B6E}|LibrarySystem\\LibrarySystem.vbproj|C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\librarysystem\\loginform1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{963AC289-A637-493F-96D0-48B30DD11B6E}|LibrarySystem\\LibrarySystem.vbproj|solutionrelative:librarysystem\\loginform1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963AC289-A637-493F-96D0-48B30DD11B6E}|LibrarySystem\\LibrarySystem.vbproj|C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\librarysystem\\signup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{963AC289-A637-493F-96D0-48B30DD11B6E}|LibrarySystem\\LibrarySystem.vbproj|solutionrelative:librarysystem\\signup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963AC289-A637-493F-96D0-48B30DD11B6E}|LibrarySystem\\LibrarySystem.vbproj|C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\librarysystem\\signup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{963AC289-A637-493F-96D0-48B30DD11B6E}|LibrarySystem\\LibrarySystem.vbproj|solutionrelative:librarysystem\\signup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963AC289-A637-493F-96D0-48B30DD11B6E}|LibrarySystem\\LibrarySystem.vbproj|C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\librarysystem\\forms\\frmuserlogs.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{963AC289-A637-493F-96D0-48B30DD11B6E}|LibrarySystem\\LibrarySystem.vbproj|solutionrelative:librarysystem\\forms\\frmuserlogs.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963AC289-A637-493F-96D0-48B30DD11B6E}|LibrarySystem\\LibrarySystem.vbproj|C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\librarysystem\\forms\\frmreport.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{963AC289-A637-493F-96D0-48B30DD11B6E}|LibrarySystem\\LibrarySystem.vbproj|solutionrelative:librarysystem\\forms\\frmreport.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963AC289-A637-493F-96D0-48B30DD11B6E}|LibrarySystem\\LibrarySystem.vbproj|C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\librarysystem\\forms\\frmbooks.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{963AC289-A637-493F-96D0-48B30DD11B6E}|LibrarySystem\\LibrarySystem.vbproj|solutionrelative:librarysystem\\forms\\frmbooks.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963AC289-A637-493F-96D0-48B30DD11B6E}|LibrarySystem\\LibrarySystem.vbproj|C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\librarysystem\\signup.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{963AC289-A637-493F-96D0-48B30DD11B6E}|LibrarySystem\\LibrarySystem.vbproj|solutionrelative:librarysystem\\signup.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963AC289-A637-493F-96D0-48B30DD11B6E}|LibrarySystem\\LibrarySystem.vbproj|C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\librarysystem\\forms\\frmborrow.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{963AC289-A637-493F-96D0-48B30DD11B6E}|LibrarySystem\\LibrarySystem.vbproj|solutionrelative:librarysystem\\forms\\frmborrow.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963AC289-A637-493F-96D0-48B30DD11B6E}|LibrarySystem\\LibrarySystem.vbproj|C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\librarysystem\\forms\\frmborrow.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{963AC289-A637-493F-96D0-48B30DD11B6E}|LibrarySystem\\LibrarySystem.vbproj|solutionrelative:librarysystem\\forms\\frmborrow.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963AC289-A637-493F-96D0-48B30DD11B6E}|LibrarySystem\\LibrarySystem.vbproj|C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\librarysystem\\forms\\frmbooks.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{963AC289-A637-493F-96D0-48B30DD11B6E}|LibrarySystem\\LibrarySystem.vbproj|solutionrelative:librarysystem\\forms\\frmbooks.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963AC289-A637-493F-96D0-48B30DD11B6E}|LibrarySystem\\LibrarySystem.vbproj|C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\librarysystem\\forms\\frmuser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{963AC289-A637-493F-96D0-48B30DD11B6E}|LibrarySystem\\LibrarySystem.vbproj|solutionrelative:librarysystem\\forms\\frmuser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963AC289-A637-493F-96D0-48B30DD11B6E}|LibrarySystem\\LibrarySystem.vbproj|C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\LibrarySystem\\forms\\frmUserlogs.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{963AC289-A637-493F-96D0-48B30DD11B6E}|LibrarySystem\\LibrarySystem.vbproj|solutionrelative:LibrarySystem\\forms\\frmUserlogs.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963AC289-A637-493F-96D0-48B30DD11B6E}|LibrarySystem\\LibrarySystem.vbproj|C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\LibrarySystem\\LoginForm1.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{963AC289-A637-493F-96D0-48B30DD11B6E}|LibrarySystem\\LibrarySystem.vbproj|solutionrelative:LibrarySystem\\LoginForm1.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm1.vb",
+              "DocumentMoniker": "C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\LibrarySystem\\LoginForm1.vb",
+              "RelativeDocumentMoniker": "LibrarySystem\\LoginForm1.vb",
+              "ToolTip": "C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\LibrarySystem\\LoginForm1.vb",
+              "RelativeToolTip": "LibrarySystem\\LoginForm1.vb",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-25T14:52:13.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\LibrarySystem\\Form1.vb",
+              "RelativeDocumentMoniker": "LibrarySystem\\Form1.vb",
+              "ToolTip": "C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\LibrarySystem\\Form1.vb [Design]",
+              "RelativeToolTip": "LibrarySystem\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-25T15:59:24.626Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\LibrarySystem\\Form1.vb",
+              "RelativeDocumentMoniker": "LibrarySystem\\Form1.vb",
+              "ToolTip": "C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\LibrarySystem\\Form1.vb",
+              "RelativeToolTip": "LibrarySystem\\Form1.vb",
+              "ViewState": "AQIAADAAAAAAAAAAAAApwKgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-25T18:02:34.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmReport.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\LibrarySystem\\forms\\frmReport.vb",
+              "RelativeDocumentMoniker": "LibrarySystem\\forms\\frmReport.vb",
+              "ToolTip": "C:\\Users\\MARIERIE BIKETI\\Desktop\\Library\\librarymanagementsystem\\LibrarySystem\\forms\\frmReport.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\MARIERIE BIKETI\\Desktop\\Library\\librarymanagementsystem\\LibrarySystem\\forms\\frmReport.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-02T06:13:39.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SignUp.vb",
+              "DocumentMoniker": "C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\LibrarySystem\\SignUp.vb",
+              "RelativeDocumentMoniker": "LibrarySystem\\SignUp.vb",
+              "ToolTip": "C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\LibrarySystem\\SignUp.vb",
+              "RelativeToolTip": "LibrarySystem\\SignUp.vb",
+              "ViewState": "AQIAADIAAAAAAAAAAAAvwDsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-13T08:26:40.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "user.vb",
+              "DocumentMoniker": "C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\LibrarySystem\\includes\\user.vb",
+              "RelativeDocumentMoniker": "LibrarySystem\\includes\\user.vb",
+              "ToolTip": "C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\LibrarySystem\\includes\\user.vb",
+              "RelativeToolTip": "LibrarySystem\\includes\\user.vb",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAawDYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-13T09:03:03.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SignUp.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\LibrarySystem\\SignUp.vb",
+              "RelativeDocumentMoniker": "LibrarySystem\\SignUp.vb",
+              "ToolTip": "C:\\Users\\MARIERIE BIKETI\\Desktop\\Library\\librarymanagementsystem\\LibrarySystem\\SignUp.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\MARIERIE BIKETI\\Desktop\\Library\\librarymanagementsystem\\LibrarySystem\\SignUp.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-13T07:50:47.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\LibrarySystem\\LoginForm1.vb",
+              "RelativeDocumentMoniker": "LibrarySystem\\LoginForm1.vb",
+              "ToolTip": "C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\LibrarySystem\\LoginForm1.vb [Design]",
+              "RelativeToolTip": "LibrarySystem\\LoginForm1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-25T14:07:13.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmUserlogs.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\LibrarySystem\\forms\\frmUserlogs.vb",
+              "RelativeDocumentMoniker": "LibrarySystem\\forms\\frmUserlogs.vb",
+              "ToolTip": "C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\LibrarySystem\\forms\\frmUserlogs.vb [Design]",
+              "RelativeToolTip": "LibrarySystem\\forms\\frmUserlogs.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-02T05:54:43.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmUserlogs.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\LibrarySystem\\forms\\frmUserlogs.Designer.vb",
+              "RelativeDocumentMoniker": "LibrarySystem\\forms\\frmUserlogs.Designer.vb",
+              "ToolTip": "C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\LibrarySystem\\forms\\frmUserlogs.Designer.vb",
+              "RelativeToolTip": "LibrarySystem\\forms\\frmUserlogs.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-02T05:55:59.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SignUp.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\LibrarySystem\\SignUp.Designer.vb",
+              "RelativeDocumentMoniker": "LibrarySystem\\SignUp.Designer.vb",
+              "ToolTip": "C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\LibrarySystem\\SignUp.Designer.vb",
+              "RelativeToolTip": "LibrarySystem\\SignUp.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-13T07:55:51.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmBorrow.vb",
+              "DocumentMoniker": "C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\LibrarySystem\\forms\\frmBorrow.vb",
+              "RelativeDocumentMoniker": "LibrarySystem\\forms\\frmBorrow.vb",
+              "ToolTip": "C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\LibrarySystem\\forms\\frmBorrow.vb",
+              "RelativeToolTip": "LibrarySystem\\forms\\frmBorrow.vb",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwFIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-27T09:41:51.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmBooks.vb",
+              "DocumentMoniker": "C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\LibrarySystem\\forms\\frmBooks.vb",
+              "RelativeDocumentMoniker": "LibrarySystem\\forms\\frmBooks.vb",
+              "ToolTip": "C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\LibrarySystem\\forms\\frmBooks.vb",
+              "RelativeToolTip": "LibrarySystem\\forms\\frmBooks.vb",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAFQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-13T10:26:09.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmBorrow.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\LibrarySystem\\forms\\frmBorrow.vb",
+              "RelativeDocumentMoniker": "LibrarySystem\\forms\\frmBorrow.vb",
+              "ToolTip": "C:\\Users\\MARIERIE BIKETI\\Desktop\\Library\\librarymanagementsystem\\LibrarySystem\\forms\\frmBorrow.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\MARIERIE BIKETI\\Desktop\\Library\\librarymanagementsystem\\LibrarySystem\\forms\\frmBorrow.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-27T09:41:43.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginForm1.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\LibrarySystem\\LoginForm1.Designer.vb",
+              "RelativeDocumentMoniker": "LibrarySystem\\LoginForm1.Designer.vb",
+              "ToolTip": "C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\LibrarySystem\\LoginForm1.Designer.vb",
+              "RelativeToolTip": "LibrarySystem\\LoginForm1.Designer.vb",
+              "ViewState": "AQIAACIAAAAAAAAAAAAowJsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-25T14:45:09.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmBooks.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\LibrarySystem\\forms\\frmBooks.vb",
+              "RelativeDocumentMoniker": "LibrarySystem\\forms\\frmBooks.vb",
+              "ToolTip": "C:\\Users\\MARIERIE BIKETI\\Desktop\\Library\\librarymanagementsystem\\LibrarySystem\\forms\\frmBooks.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\MARIERIE BIKETI\\Desktop\\Library\\librarymanagementsystem\\LibrarySystem\\forms\\frmBooks.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-13T10:26:06.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmUser.vb",
+              "DocumentMoniker": "C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\LibrarySystem\\forms\\frmUser.vb",
+              "RelativeDocumentMoniker": "LibrarySystem\\forms\\frmUser.vb",
+              "ToolTip": "C:\\Users\\7290\\Desktop\\fPython\\Library (3)\\Library\\librarymanagementsystem\\LibrarySystem\\forms\\frmUser.vb",
+              "RelativeToolTip": "LibrarySystem\\forms\\frmUser.vb",
+              "ViewState": "AQIAAEoAAAAAAAAAAAASwDcAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-13T09:11:22.584Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
