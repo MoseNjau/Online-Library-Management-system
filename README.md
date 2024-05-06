@@ -1,5 +1,5 @@
 # Library-Management-System-In-Visual-Basic-6.0
-## Graduation-End-Year-Project
+## Class project done in groups
 
 Library Management System
 
